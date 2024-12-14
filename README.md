@@ -20,3 +20,6 @@ Now you should find the MaxApp in your Menu under Utilites/Accesories.
 You can also uninstall the software with the parameter --remove.
 
 That's all :-)
+
+8 Years later some changes needed for Ubuntu 24...
+https://chatgpt.com/share/675d6789-9a48-8005-9629-bdae14166d03
