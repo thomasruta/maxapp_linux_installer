@@ -21,7 +21,7 @@
 ##############################
 # Global vars
 
-URL="http://www.max-portal.elv.de:8181/downloadELV/MAXApp_ELV.dmg"
+URL="https://homematic-ip.com/sites/default/files/other_media/MAXApp_eQ3.dmg"
 MAX_INST_DIR="/opt/MAX_APP"
 MAX_DESKTOP_FILE="/usr/share/applications/max-app.desktop"
 TEMPDIR="/tmp/maxapp_installer"
